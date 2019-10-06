@@ -1,2 +1,3 @@
 # deadAPfinder
-Find dead wireless access points hidden in your network - Cisco / Velaspan Hackathon project
+Find dead wireless access points hidden in your network
+A Cisco / Velaspan Hackathon co-creation
